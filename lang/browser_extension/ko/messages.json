@@ -156,7 +156,7 @@
         "message": "서비스"
     },
     "service_password": {
-        "message": "서비스 비밀번호"
+        "message": "서비스 암호"
     },
     "extension": {
         "message": "확장"
@@ -177,6 +177,6 @@
         "message": "필터"
     },
     "filter_out": {
-        "message": "필터링하다"
+        "message": "필터링"
     }
 }
